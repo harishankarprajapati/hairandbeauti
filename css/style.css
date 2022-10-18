@@ -1,0 +1,365 @@
+@font-face {
+    font-family: 'Sweet Sensations Personal Use';
+    src: url(../font/sweet-sensations-personal-use/sweet-sensations-personal-use.regular.ttf);
+}
+
+body {
+    font-family: 'Crimson Text';
+}
+
+.sec-bg-header {
+    background-image: url(../images/Group\ 39.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.nav-link.text-light {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 81%;
+}
+
+.sec-heading-main {
+    font-family: 'Sweet Sensations Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 108.98%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 8%;
+}
+
+.sec-heading-main2 {
+    color: #E0AE30;
+}
+
+.sec-but-1 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 119.48%;
+    text-align: center;
+    color: #000000;
+    padding: 15px 50px;
+    background-color: #fff;
+
+
+}
+
+.sec-but-1:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    width: 37px;
+    height: 10px;
+    margin: 5px 7px;
+    background: #CFA335;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity 200ms ease;
+    border-radius: 0 !important;
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 38px;
+}
+
+.sec-serv-h {
+    font-family: 'Sweet Sensations Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 119.48%;
+    text-align: center;
+    background: linear-gradient(105.42deg, #E0AE30 10.69%, #B88611 134.95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    padding: 30px 0px;
+
+}
+
+.sec-ser-hov {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    position: relative;
+}
+
+.sec-sev-img {
+    padding: 19px 14px;
+}
+
+.sec-but-2 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 119.48%;
+    text-align: center;
+    color: #fff;
+    padding: 15px 50px;
+    background-color: #000;
+
+
+}
+
+.sec-hover-full:hover .sec-sev-img {
+    background: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    box-shadow: inset 0px 0px 25px 3px rgba(17, 17, 17, 0.13);
+    border-radius: 50%;
+    padding: 18px 14px;
+
+}
+
+.sec-hover-full:hover .sec-ser-hov {
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-hover-full:hover .sec-ser-hov::before {
+    content: "";
+    width: 25px;
+    height: 5px;
+    background-color: #111111;
+    position: absolute;
+    bottom: -13px;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.sec-but-2:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sec-bg-header2 {
+    background-image: url(../images/Group\ 40.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-hair-h {
+    font-family: 'Sweet Sensations Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 119.48%;
+    text-align: center;
+    background: linear-gradient(105.42deg, #E0AE30 10.69%, #B88611 134.95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+}
+
+.sec-bg-header3 {
+    background-image: url(../images/whatsapp\ offer\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-p-what {
+    padding-top: 14%;
+    padding-bottom: 4%;
+}
+
+.sec-p-what h2 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 57px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+}
+
+input#exampleInputEmail1 {
+    padding: 26px 8px;
+    border-radius: 0;
+}
+
+.sec-but-3 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 114.5%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background: #25D366;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    padding: 11px 25px;
+}
+
+.sec-but-3:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-btn-what {
+    padding-top: 13px;
+}
+
+.sec-bg-header4 {
+    background-image: url(../images/Group\ 26\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-serv-h2 {
+    font-family: 'Sweet Sensations Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 119.48%;
+    text-align: center;
+    background: linear-gradient(105.42deg, #E0AE30 10.69%, #B88611 134.95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    padding: 30px 0px;
+
+}
+
+.sec-bg-header5 {
+    background-color: #111;
+}
+
+hr.sec-hr {
+    background: #fff;
+    height: 2px;
+    opacity: 1;
+    margin-top: 30px;
+}
+
+.sec-foot-h {
+    font-family: 'Sweet Sensations Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 81%;
+    color: #E0AE30;
+    text-align: center;
+}
+
+.sec-foot-c {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 112.5%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.sec-foot-c:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-form {
+    padding: 0px !important;
+}
+
+.sec-but-4 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 81%;
+    color: #000000;
+    background-color: #fff;
+    padding: 10px 5px;
+}
+
+.sec-btn-what2 {
+    padding-top: 7px;
+}
+
+.sec-but-4:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+    .sec-heading-main {
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 108.98%;
+    }
+
+    .sec-but-1 {
+        font-size: 15px;
+        line-height: 119.48%;
+        padding: 15px 10px;
+    }
+
+    .sec-but-2 {
+        font-size: 15px;
+        line-height: 119.48%;
+        padding: 15px 10px;
+    }
+
+    .sec-b-m {
+        margin: 20px 0px !important;
+        padding: 5px !important;
+    }
+
+    .sec-serv-h {
+        font-size: 45px;
+    }
+
+    .sec-hair-img {
+        width: 100%;
+    }
+
+    .sec-hair-h {
+        font-size: 45px;
+        padding-top: 30px;
+    }
+
+    .sec-p {
+        padding: 0 !important;
+    }
+
+    .sec-p-what h2 {
+        font-size: 19px;
+        padding: 0;
+        line-height: 37px;
+    }
+
+    .sec-serv-h2 {
+        font-size: 35px;
+    }
+
+    .sec-p-bec {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}
