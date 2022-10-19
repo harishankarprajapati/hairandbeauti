@@ -299,7 +299,9 @@ hr.sec-hr {
     color: #000000;
     text-decoration: none;
 }
-
+.sec-logo{
+    width: 100px;
+}
 
 
 
@@ -361,5 +363,8 @@ hr.sec-hr {
     .sec-p-bec {
         padding: 0 !important;
         margin: 0 !important;
+    }
+    .sec-logo{
+        width: 100%;
     }
 }
