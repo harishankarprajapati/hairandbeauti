@@ -299,15 +299,113 @@ hr.sec-hr {
     color: #000000;
     text-decoration: none;
 }
-.sec-logo{
+
+.sec-logo {
     width: 100px;
 }
 
+/* about */
+a.nav-link.sec-t.text-light {
+    color: #000 !important;
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 81%
+}
+
+.sec-about-header {
+    background-image: url(../images/Group\ 85.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-about-h {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 96.98%;
+    text-align: right !important;
+    justify-content: center;
+    color: #CF9D23;
+    padding: 100px 0px;
+}
+
+.sec-our {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 96.98%;
+    color: #000000;
+
+}
+
+.sec-our-p {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 165.48%;
+    color: #666666;
+}
+
+.sec-our2 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 165.48%;
+    color: #333333;
+
+}
+
+.sec-icon {
+    font-size: 22px;
+}
 
 
+/* Services */
+.sec-about-header2 {
+    background-image: url(../images/Group\ 86\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.form-check-input:checked {
+    background-color: #C38D06;
+    border-color: #C38D06;
+}
 
+.checked {
+    color: #C38D06;
+}
 
+.btn-orange {
+    color: #ffffff !important;
+    background-color: #C38D06 !important;
+    border-color: #C38D06 !important;
+}
+
+h4.text-orange {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #C48D06;
+}
+
+label {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 165.48%;
+    color: #666666;
+
+}
 
 @media (max-width: 767px) {
     .sec-heading-main {
@@ -364,7 +462,8 @@ hr.sec-hr {
         padding: 0 !important;
         margin: 0 !important;
     }
-    .sec-logo{
+
+    .sec-logo {
         width: 100%;
     }
 }
