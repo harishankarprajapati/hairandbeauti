@@ -8,9 +8,7 @@ body {
 }
 
 .sec-bg-header {
-    background-image: url(../images/Group\ 39.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #2F2F2F;
 }
 
 a.nav-link.text-light {
@@ -169,7 +167,7 @@ a.nav-link.text-light {
 }
 
 .sec-bg-header3 {
-    background-image: url(../images/whatsapp\ offer\ 1.png);
+    background-image: url(../images/whatsapp\ offer\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -218,7 +216,7 @@ input#exampleInputEmail1 {
 }
 
 .sec-bg-header4 {
-    background-image: url(../images/Group\ 26\ \(1\).png);
+    background-image: url(../images/Desktop\ -\ 7.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
