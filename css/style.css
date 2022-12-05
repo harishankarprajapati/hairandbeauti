@@ -7,9 +7,15 @@ body {
     font-family: 'Crimson Text';
 }
 
-.sec-bg-header {
+.sec-bg-header22 {
     background-color: #2F2F2F;
 }
+.sec-bg-header {
+    background-image: url(../images/Group\ 39.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 a.nav-link.text-light {
     font-family: 'Crimson Text';
@@ -167,6 +173,11 @@ a.nav-link.text-light {
 }
 
 .sec-bg-header3 {
+    background-image: url(../images/whatsapp\ offer\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec-bg-header33 {
     background-image: url(../images/whatsapp\ offer\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -216,6 +227,11 @@ input#exampleInputEmail1 {
 }
 
 .sec-bg-header4 {
+    background-image: url(../images/Group\ 26\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec-bg-header44 {
     background-image: url(../images/Desktop\ -\ 7.png);
     background-repeat: no-repeat;
     background-size: cover;
