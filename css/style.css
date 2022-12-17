@@ -572,6 +572,23 @@ a {
     color: #FFFFFF;
     padding-bottom: 20px;
 }
+/* ------------------franchise-------------- */
+
+.sec-fran-bg{
+    background-image: url(../images/Rectangle\ 47.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec-f-h{
+    font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 96.98%;
+text-align: center;
+color: #FFFFFF;
+padding-top: 50px;
+}
 
 .sec-serv-fra-h {
 
@@ -619,4 +636,34 @@ a {
     line-height: 133.48%;
     text-align: center;
     color: #000000;
+}
+
+
+/* ---------------------------------contact-page---------------------------- */
+
+.icon {
+    padding-top: 20px;
+    font-size: 40px;
+}
+.con-bg{
+    margin-top: -40px;
+}
+
+.sec-form{
+    width: 80%;
+}
+.btn{
+    background-color: #C38D06;
+    border-radius: 0;
+    padding: 15px 50px;
+    font-size: 20px;
+}
+.btn.btn:hover  {
+    background-color: #C38D06;
+}
+@media (max-width: 768px) {
+    .con-bg{
+        margin-top: 50px;
+    }
+    
 }
