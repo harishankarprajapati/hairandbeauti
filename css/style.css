@@ -214,7 +214,7 @@ input#exampleInputEmail1 {
     line-height: 114.5%;
     text-transform: capitalize;
     color: #FFFFFF;
-    background: #25D366;
+    background: #808080;
     transform: matrix(-1, 0, 0, 1, 0, 0);
     padding: 11px 25px;
 }
