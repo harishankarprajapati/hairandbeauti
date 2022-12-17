@@ -10,6 +10,7 @@ body {
 .sec-bg-header22 {
     background-color: #2F2F2F;
 }
+
 .sec-bg-header {
     background-image: url(../images/Group\ 39.png);
     background-repeat: no-repeat;
@@ -90,17 +91,11 @@ a.nav-link.text-light {
 
 }
 
-.sec-ser-hov {
-    font-family: 'Crimson Text';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 32px;
-    text-align: center;
-    text-transform: uppercase;
-    color: #333333;
-    position: relative;
-}
+
+
+
+
+
 
 .sec-sev-img {
     padding: 19px 14px;
@@ -177,6 +172,7 @@ a.nav-link.text-light {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .sec-bg-header33 {
     background-image: url(../images/whatsapp\ offer\ 2.png);
     background-repeat: no-repeat;
@@ -231,6 +227,7 @@ input#exampleInputEmail1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .sec-bg-header44 {
     background-image: url(../images/Desktop\ -\ 7.png);
     background-repeat: no-repeat;
@@ -481,11 +478,13 @@ label {
         width: 100%;
     }
 }
+
 /* whatsapp */
-a{
-    text-decoration:none !important;
-  }
-  .floating_btn {
+a {
+    text-decoration: none !important;
+}
+
+.floating_btn {
     position: fixed;
     bottom: 30px;
     right: 30px;
@@ -493,23 +492,23 @@ a{
     height: 100px;
     display: flex;
     flex-direction: column;
-    align-items:center;
-    justify-content:center;
+    align-items: center;
+    justify-content: center;
     z-index: 1000;
-  }
-  
-  @keyframes pulsing {
+}
+
+@keyframes pulsing {
     to {
-      box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+        box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
     }
-  }
-  
-  .contact_icon {
+}
+
+.contact_icon {
     background-color: #42db87;
     color: #fff;
     width: 60px;
     height: 60px;
-    font-size:30px;
+    font-size: 30px;
     border-radius: 50px;
     text-align: center;
     box-shadow: 2px 2px 3px #999;
@@ -527,18 +526,91 @@ a{
     font-family: sans-serif;
     text-decoration: none !important;
     transition: all 300ms ease-in-out;
-  }
-  
-  
-  .text_icon {
+}
+
+
+.text_icon {
     margin-top: 8px;
     color: #707070;
     font-size: 13px;
-  }
+}
 
+/* ---franchise */
+.sec-fran-header {
+    background-image: url(../images/fran.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.sec-fra-h {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 96.98%;
+    text-align: right !important;
+    justify-content: center;
+    color: #CF9D23;
+    padding-top: 100px;
 
+}
 
+.sec-about-p {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150.98%;
+    text-align: right;
+    width: 805;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
 
+.sec-serv-fra-h {
 
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 96.98%;
+    text-align: center;
+    color: #000;
+    padding-top: 50px;
+}
 
+.sec-ser-hov22 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 96.98%;
+    text-align: center;
+    color: #666666;
+}
+
+.sec-ser-hov22:hover {
+    color: #666666;
+}
+
+.sec-hover-full:hover .sec-ser-hov22::before {
+    content: "";
+    width: 55px;
+    height: 5px;
+    background-color: #C38D06;
+    position: absolute;
+    bottom: -13px;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.sec-fan-p-ser {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 133.48%;
+    text-align: center;
+    color: #000000;
+}
