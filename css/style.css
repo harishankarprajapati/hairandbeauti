@@ -7,6 +7,12 @@ body {
     font-family: 'Crimson Text';
 }
 
+.sec-hair-pa a {
+    color: #000 !important;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Crimson Text';
+}
 .sec-bg-header22 {
     background-color: #2F2F2F;
 }
