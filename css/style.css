@@ -116,7 +116,7 @@ a.nav-link.text-light {
     text-align: center;
     color: #fff;
     padding: 15px 50px;
-    background-color: #000;
+    background-color: #2F2F2F;
 
 
 }
@@ -308,7 +308,7 @@ hr.sec-hr {
     line-height: 81%;
     color: #000000;
     background-color: #fff;
-    padding: 10px 5px;
+    padding: 10px 13px;
 }
 
 .sec-btn-what2 {
@@ -318,10 +318,6 @@ hr.sec-hr {
 .sec-but-4:hover {
     color: #000000;
     text-decoration: none;
-}
-
-.sec-logo {
-    width: 100px;
 }
 
 /* about */
