@@ -4,14 +4,14 @@
 }
 
 body {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
 }
 
 .sec-hair-pa a {
     color: #000 !important;
     text-transform: uppercase;
     font-size: 20px;
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
 }
 .sec-bg-header22 {
     background-color: #2F2F2F;
@@ -25,7 +25,7 @@ body {
 
 
 a.nav-link.text-light {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 22px;
@@ -48,7 +48,7 @@ a.nav-link.text-light {
 }
 
 .sec-but-1 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 25px;
@@ -96,6 +96,9 @@ a.nav-link.text-light {
     padding: 30px 0px;
 
 }
+.sec-ser-n{
+    font-size: 25px !important;
+}
 
 
 
@@ -108,7 +111,7 @@ a.nav-link.text-light {
 }
 
 .sec-but-2 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 25px;
@@ -191,7 +194,7 @@ a.nav-link.text-light {
 }
 
 .sec-p-what h2 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 46px;
@@ -202,12 +205,12 @@ a.nav-link.text-light {
 }
 
 input#exampleInputEmail1 {
-    padding: 26px 8px;
+    padding: 35px 19px;
     border-radius: 0;
 }
 
 .sec-but-3 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 23px;
@@ -216,7 +219,7 @@ input#exampleInputEmail1 {
     color: #FFFFFF;
     background: #808080;
     transform: matrix(-1, 0, 0, 1, 0, 0);
-    padding: 11px 25px;
+    padding: 21px 25px;
 }
 
 .sec-but-3:hover {
@@ -225,7 +228,7 @@ input#exampleInputEmail1 {
 }
 
 .sec-btn-what {
-    padding-top: 13px;
+    padding-top: 23px;
 }
 
 .sec-bg-header4 {
@@ -247,7 +250,7 @@ input#exampleInputEmail1 {
     font-family: 'Sweet Sensations Personal Use';
     font-style: normal;
     font-weight: 400;
-    font-size: 49px;
+    font-size: 78px;
     line-height: 119.48%;
     text-align: center;
     background: linear-gradient(105.42deg, #E0AE30 10.69%, #B88611 134.95%);
@@ -255,7 +258,7 @@ input#exampleInputEmail1 {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
-    padding: 30px 0px;
+    padding: 50px 0px 30px 0px;
 
 }
 
@@ -281,7 +284,7 @@ hr.sec-hr {
 }
 
 .sec-foot-c {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -301,7 +304,7 @@ hr.sec-hr {
 }
 
 .sec-but-4 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -323,7 +326,7 @@ hr.sec-hr {
 /* about */
 a.nav-link.sec-t.text-light {
     color: #000 !important;
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 22px;
@@ -337,7 +340,7 @@ a.nav-link.sec-t.text-light {
 }
 
 .sec-about-h {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 70px;
@@ -349,7 +352,7 @@ a.nav-link.sec-t.text-light {
 }
 
 .sec-our {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 70px;
@@ -359,7 +362,7 @@ a.nav-link.sec-t.text-light {
 }
 
 .sec-our-p {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -368,7 +371,7 @@ a.nav-link.sec-t.text-light {
 }
 
 .sec-our2 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 35px;
@@ -414,7 +417,7 @@ h4.text-orange {
 }
 
 label {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 600;
     font-size: 15px;
@@ -554,7 +557,7 @@ a {
 }
 
 .sec-fra-h {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 70px;
@@ -567,7 +570,7 @@ a {
 }
 
 .sec-about-p {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -585,7 +588,7 @@ a {
     background-size: cover;
 }
 .sec-f-h{
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
 font-style: normal;
 font-weight: 700;
 font-size: 70px;
@@ -597,7 +600,7 @@ padding-top: 50px;
 
 .sec-serv-fra-h {
 
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 70px;
@@ -608,7 +611,7 @@ padding-top: 50px;
 }
 
 .sec-ser-hov22 {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -634,7 +637,7 @@ padding-top: 50px;
 }
 
 .sec-fan-p-ser {
-    font-family: 'Crimson Text';
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 400;
     font-size: 26px;
