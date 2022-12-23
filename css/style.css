@@ -2,9 +2,12 @@
     font-family: 'Sweet Sensations Personal Use';
     src: url(../font/sweet-sensations-personal-use/sweet-sensations-personal-use.regular.ttf);
 }
-
+@font-face {
+    font-family: 'causten';
+    src: url(../font/Causten-Regular.otf);
+}
 body {
-    font-family: 'Crimson';
+    font-family: 'causten';
 }
 
 .sec-hair-pa a {
@@ -263,7 +266,7 @@ input#exampleInputEmail1 {
 }
 
 .sec-bg-header5 {
-    background-color: #111;
+    background-color: #2F2F2F;
 }
 
 hr.sec-hr {
