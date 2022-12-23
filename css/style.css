@@ -303,7 +303,7 @@ hr.sec-hr {
 }
 
 .sec-form {
-    padding: 0px !important;
+    padding: 10px !important;
 }
 
 .sec-but-4 {
@@ -664,7 +664,7 @@ padding-top: 50px;
 }
 
 .sec-form{
-    width: 80%;
+    width: 100%;
 }
 .btn{
     background-color: #C38D06;
