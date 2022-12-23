@@ -412,7 +412,7 @@ h4.text-orange {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 19px;
     line-height: 29px;
     color: #C48D06;
 }
@@ -433,17 +433,24 @@ label {
         font-size: 35px;
         line-height: 108.98%;
     }
+    .sec-bg-header44 {
+        background-image: none;
+        background-color: #000;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
     .sec-but-1 {
         font-size: 15px;
         line-height: 119.48%;
-        padding: 15px 10px;
+        padding: 15px 30px;
     }
 
     .sec-but-2 {
         font-size: 15px;
         line-height: 119.48%;
-        padding: 15px 10px;
+        padding: 15px 20px;
+        margin-bottom: 20px;
     }
 
     .sec-b-m {
@@ -546,9 +553,8 @@ a {
 
 /* ---franchise */
 .sec-fran-header {
-    background-image: url(../images/fran.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+   background-color: #000;
+ 
 }
 
 .sec-fra-h {
@@ -560,7 +566,7 @@ a {
     text-align: right !important;
     justify-content: center;
     color: #CF9D23;
-    padding-top: 100px;
+    padding-top: 80px;
 
 }
 
@@ -648,6 +654,9 @@ padding-top: 50px;
     padding-top: 20px;
     font-size: 40px;
 }
+.sec-con-p{
+    word-break: break-word;
+}
 .con-bg{
     margin-top: -40px;
 }
@@ -658,8 +667,8 @@ padding-top: 50px;
 .btn{
     background-color: #C38D06;
     border-radius: 0;
-    padding: 15px 50px;
-    font-size: 20px;
+    padding: 5px 20px;
+    font-size: 14px;
 }
 .btn.btn:hover  {
     background-color: #C38D06;
@@ -668,5 +677,62 @@ padding-top: 50px;
     .con-bg{
         margin-top: 50px;
     }
+    .sec-serv-fra-h {
+
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 96.98%;
+       
+    }
+    .sec-f-h{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 96.98%;
+  
+    }
+    .sec-fan-p-ser {
+       
+        font-size: 20px;
+        line-height: 133.48%;
+        
+    }
+    .sec-about-h {
+       
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 96.98%;
+       
+        padding: 80px 0px;
+    }
     
+.sec-our {
+ 
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 96.98%;
+    color: #000000;
+
+}
+.sec-fra-h {
+ 
+    font-size: 50px;
+    line-height: 96.98%;
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.sec-about-p {
+    font-size: 15px;
+    line-height: 150.98%;
+    text-align: center;
+  
+}
+
+.sec-ser-hov22 {
+   
+    font-size: 16px;
+   
+}
+
 }
