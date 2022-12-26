@@ -702,6 +702,9 @@ textarea.form-control.shadow.p-1.mt-2.mb-2.bg-body {
     align-items: center;
     justify-content: center;
 }
+input#exampleInputEmail11 {
+    border-radius: 0px;
+}
 @media (max-width: 768px) {
     .con-bg{
         margin-top: 50px;
