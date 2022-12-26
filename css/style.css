@@ -393,6 +393,7 @@ a.nav-link.sec-t.text-light {
     background-image: url(../images/Group\ 86\ \(1\).png);
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 400px;
 }
 
 .form-check-input:checked {
