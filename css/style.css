@@ -287,6 +287,7 @@ hr.sec-hr {
 }
 
 .sec-foot-c {
+    font-family: 'Crimson';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -673,6 +674,9 @@ padding-top: 50px;
 }
 .btn.btn:hover  {
     background-color: #C38D06;
+}
+.sec-foot-p{
+    font-family: 'Crimson';
 }
 @media (max-width: 768px) {
     .con-bg{
