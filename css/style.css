@@ -665,13 +665,27 @@ padding-top: 50px;
 }
 
 .sec-form{
-    width: 100%;
+    width: 55%;
+}
+input.form-control.shadow.p-4.mt-2.mb-2.bg-body {
+    border-radius: 0px !important;
+    font-size: 25px;
+    font-family: 'Crimson'; 
+    font-weight: 600;
+    height: 65px;
+}
+textarea.form-control.shadow.p-1.mt-2.mb-2.bg-body {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Crimson'; 
+    border-radius: 0px !important;
+    padding: 7px 23px !important;
 }
 .btn{
     background-color: #C38D06;
     border-radius: 0;
     padding: 5px 20px;
-    font-size: 14px;
+    font-size: 25px;
 }
 .btn.btn:hover  {
     background-color: #C38D06;
