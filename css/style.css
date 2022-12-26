@@ -684,7 +684,8 @@ textarea.form-control.shadow.p-1.mt-2.mb-2.bg-body {
 .btn{
     background-color: #C38D06;
     border-radius: 0;
-    padding: 5px 20px;
+    padding: 15px 50px;
+    font-family: 'Crimson'; 
     font-size: 25px;
 }
 .btn.btn:hover  {
